@@ -16,7 +16,7 @@ info:
   #     type:         string
   #     format:       password
   #     required:     false
-host: https://cip-exosite.azurewebsites.net # Set this to the host your function is on
+host: cip-exosite.azurewebsites.net # Set this to the host your function is on
 basePath: /api/ # Set this or the path according to your function
 ################################################################################
 # Do not edit below
